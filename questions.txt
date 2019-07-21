@@ -1,0 +1,8 @@
+How do we use MultiShape in chapter 9?
+  - MultiShape is a type struct whose field is an interface
+  - also, the MultiShape type implements the interface that is it's field
+
+  - how to initialize a varlable of type MultiShape?
+  - specifically, how to "connect" a Circle type to the MultiShape type
+
+

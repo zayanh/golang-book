@@ -101,6 +101,10 @@ func main() {
 	//shapeSlice := [2]Shape{&c, &r}
 	//m := MultiShape{shapeSlice}
 
+	//m := new(MultiShape)
+	//m.shapes.append(Circle{0,0,4})
+
+
 	fmt.Println()
 	// People
 	//========
