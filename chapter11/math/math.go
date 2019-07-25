@@ -5,6 +5,10 @@ package math
 
 // Finds the average of a series of numbers
 func Average(xs []float64) float64 {
+	if len(xs) < 1 {
+		return -1	// can I return an error type??
+	}
+
 	total := float64(0)
 	for _, x := range xs {
 		total += x
