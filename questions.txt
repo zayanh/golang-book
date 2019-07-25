@@ -8,3 +8,8 @@ How do we use MultiShape in chapter 9?
 In chapter 10, how do I setup a scheduler?
   - print ping twice for every pong
   - prioritize messages from one channel over another?
+
+How to use go doc to generate the http version (chapter 11)
+
+Is there a standard way to run go install in all custom packages in a repo?
+  - I just want to run a setup script and run main.go...
