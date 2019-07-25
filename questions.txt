@@ -5,4 +5,6 @@ How do we use MultiShape in chapter 9?
   - how to initialize a varlable of type MultiShape?
   - specifically, how to "connect" a Circle type to the MultiShape type
 
-
+In chapter 10, how do I setup a scheduler?
+  - print ping twice for every pong
+  - prioritize messages from one channel over another?
